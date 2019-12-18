@@ -1,4 +1,4 @@
-# ViperGenerator
+# Viper Module Generator
 Demo for creating Viper Template
 When you decide to use VIPER architecture in your project, it is very hard to  create new modules, because every time you need create at least 5 files for each module. This repo can solve problem. Just install as below and you are done. 
 
