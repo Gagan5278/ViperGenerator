@@ -11,7 +11,7 @@ sudo swift install.swift
 ```
 You should be this output message:
 
- * * ✅  Template installed succesfully 🎉. Enjoy it 🙂
+ _ ✅  Template installed succesfully 🎉. Enjoy it 🙂 _
 
 If all it's ok you now could find your template in Xcode.
 
